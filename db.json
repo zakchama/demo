@@ -41,8 +41,8 @@
   ],
   "agents": [
     {
-      "id": "100100P",
-      "matricule": "100100P",
+      "id": "100100",
+      "matricule": "100100",
       "nom_prenom": "OUSSEINI ANAHI",
       "date_naissance": "1971-01-01 00:00:00",
       "sexe": "M",
@@ -53,8 +53,8 @@
       "last_update": "2019-09-23 11:55:34.319212"
     },
     {
-      "id": "100101R",
-      "matricule": "100101R",
+      "id": "100101",
+      "matricule": "100101",
       "nom_prenom": "MOUSSA  RAMBA",
       "date_naissance": "1960-01-01 00:00:00",
       "sexe": "M",
