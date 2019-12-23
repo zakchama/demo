@@ -1,7 +1,7 @@
 {
   "position_administratrives": [
     {
-      "id": 1,
+      "id": "01",
       "code_position_administrative": "01",
       "position_salariale": "00",
       "test_allocation": "1",
@@ -9,13 +9,31 @@
       "who_done": "zakchama",
       "when_done": "2019-09-23 11:55:34.319212",
       "last_update": "2019-09-23 11:55:34.319212"
+    },
+    {
+      "id": "11",
+      "code_position_administrative": "11",
+      "position_salariale": "02",
+      "test_allocation": "0",
+      "libelle_position_administrative": "RETRAITE",
+      "who_done": "zakchama",
+      "when_done": "2019-09-23 11:55:34.319212",
+      "last_update": "2019-09-23 11:55:34.319212"
     }
   ],
   "classification_salariales": [
     {
-      "id": "1",
+      "id": "00",
       "code_classification_salariale": "00",
       "libelle_salariale": "SALAIRE CALCULE",
+      "who_done": "zakchama",
+      "when_done": "2019-09-23 11:55:34.319212",
+      "last_update": "2019-09-23 11:55:34.319212"
+    },
+    {
+      "id": "02",
+      "code_classification_salariale": "02",
+      "libelle_salariale": "SANS SALAIRE",
       "who_done": "zakchama",
       "when_done": "2019-09-23 11:55:34.319212",
       "last_update": "2019-09-23 11:55:34.319212"
@@ -29,6 +47,17 @@
       "sexe": "M",
       "code_position_administrative": "01",
       "code_classification_salariale": "00",
+      "who_done": "zakchama",
+      "when_done": "2019-09-23 11:55:34.319212",
+      "last_update": "2019-09-23 11:55:34.319212"
+    },
+    {
+      "matricule": "100101R",
+      "nom_prenom": "MOUSSA  RAMBA",
+      "date_naissance": "1960-01-01 00:00:00",
+      "sexe": "M",
+      "code_position_administrative": "11",
+      "code_classification_salariale": "02",
       "who_done": "zakchama",
       "when_done": "2019-09-23 11:55:34.319212",
       "last_update": "2019-09-23 11:55:34.319212"
