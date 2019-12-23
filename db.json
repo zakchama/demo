@@ -1,14 +1,37 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "position_administratrives": [
+    {
+      "id": 1,
+      "code_position_administrative": "01",
+      "position_salariale": "00",
+      "test_allocation": "1",
+      "libelle_position_administrative": "EN ACTIVITE",
+      "who_done": "zakchama",
+      "when_done": "2019-09-23 11:55:34.319212",
+      "last_update": "2019-09-23 11:55:34.319212"
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "classification_salariales": [
+    {
+      "id": "1",
+      "code_classification_salariale": "00",
+      "libelle_salariale": "SALAIRE CALCULE",
+      "who_done": "zakchama",
+      "when_done": "2019-09-23 11:55:34.319212",
+      "last_update": "2019-09-23 11:55:34.319212"
+    }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "agents": [
+    {
+      "matricule": "100100P",
+      "nom_prenom": "OUSSEINI ANAHI",
+      "date_naissance": "1971-01-01 00:00:00",
+      "sexe": "M",
+      "code_position_administrative": "01",
+      "code_classification_salariale": "00",
+      "who_done": "zakchama",
+      "when_done": "2019-09-23 11:55:34.319212",
+      "last_update": "2019-09-23 11:55:34.319212"
+    }
+  ]
 }
