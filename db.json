@@ -1,11 +1,11 @@
 [
-  "position_administratives": {
+  "position_administratives": [
     { "id": "01", "code_position_administrative": "01", "position_salariale": "00", "test_allocation": "1", "libelle_position_administrative": "EN ACTIVITE", "who_done": "zakchama", "when_done": "2019-09-23 11:55:34.319212", "last_update": "2019-09-23 11:55:34.319212" }
-  },
-  "classification_salariales": {
+  ],
+  "classification_salariales": [
     { "id": "00", "code_classification_salariale": "00", "libelle_salariale": "SALAIRE CALCULE", "who_done": "zakchama", "when_done": "2019-09-23 11:55:34.319212", "last_update": "2019-09-23 11:55:34.319212" }
-  },
-  "agents": {
+  ],
+  "agents": [
     { "id": "100100", "matricule": "100100", "nom_prenom": "OUSSEINI ANAHI", "date_naissance": "1971-01-01 00:00:00", "sexe": "M", "code_position_administrative": "01", "code_classification_salariale": "00", "who_done": "zakchama", "when_done": "2019-09-23 11:55:34.319212", "last_update": "2019-09-23 11:55:34.319212" }
-  }
+  ]
 ]
